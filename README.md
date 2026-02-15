@@ -6,7 +6,7 @@
 <img align="left" alt="Portfolio Logo" width="400px" src="https://i.imgur.com/YesIrJe.jpg" />
 </br>
 
-- **Position**:  Information Security Analyst, Subject Matter Expert (SME)  
+- **Position**:  Information Security Engineer, Subject Matter Expert (SME)  
 - **Timeframe**:  One month  
 - **Objective**:  Optimize vendor connections while maintaining a strong security posture by utilizing Zscaler, our Secure Web Gateway (SWG). 
 </br>
